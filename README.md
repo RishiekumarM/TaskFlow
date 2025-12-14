@@ -9,14 +9,5 @@ cd todo-app
 ```python
 print("Hello World")
 
-### Why it matters
-- Syntax highlighting
-- Technical credibility
-
 ---
-
-# 8️⃣ Links
-
-### Syntax
-```md
-[Link Text](URL)
+[GitHub Repository](https://github.com/yourusername/todo-app)
