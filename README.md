@@ -20,3 +20,9 @@ print("Hello World")
 | Delete Task | ✅ |
 | Edit Task | ❌ |
 ---
+
+[![Repo Size](https://img.shields.io/github/repo-size/RishiekumarM/TaskFlow)](https://github.com/RishiekumarM/TaskFlow)
+
+# Simple TO-DO List Website
+
+A basic to-do application built for learning GitHub and Markdown.
