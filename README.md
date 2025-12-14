@@ -166,4 +166,3 @@ Opened `http://localhost:3000`.
 
 ---
 
-This modular approach ensures the code is maintainable, "resume-ready", and clearly separated into logical layers.
