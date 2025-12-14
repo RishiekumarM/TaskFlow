@@ -13,3 +13,9 @@ print("Hello World")
 ![TO DO list app screenshot](frontend/taskflow.png)
 ---
 >this is a note
+| Feature | Status |
+|--------|--------|
+| Add Task | ✅ |
+| Delete Task | ✅ |
+| Edit Task | ❌ |
+---
