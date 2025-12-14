@@ -9,5 +9,4 @@ cd todo-app
 ```python
 print("Hello World")
 
----
 [GitHub Repository](https://github.com/yourusername/todo-app)
