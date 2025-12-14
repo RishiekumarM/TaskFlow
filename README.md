@@ -1,3 +1,2 @@
-#Simple TO-DO list website  
-
+# Simple TO-DO list website
 Use `git clone` to download.  
