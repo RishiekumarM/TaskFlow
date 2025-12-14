@@ -23,6 +23,7 @@ print("Hello World")
 
 [![Repo Size](https://img.shields.io/github/repo-size/RishiekumarM/TaskFlow)](https://github.com/RishiekumarM/TaskFlow)
 
-# Simple TO-DO List Website
+![GitHub stars](https://img.shields.io/github/stars/RishiekumarM/TaskFlow)
+![GitHub forks](https://img.shields.io/github/forks/RishiekumarM/TaskFlow)
+![Last Commit](https://img.shields.io/github/last-commit/RishiekumarM/TaskFlow)
 
-A basic to-do application built for learning GitHub and Markdown.
